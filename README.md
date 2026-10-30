@@ -33,7 +33,7 @@ npm run collect
 python -m http.server 4173 --directory docs
 ```
 
-Windows 수집은 설치된 Chrome을, Linux Actions는 Playwright Chromium을 사용한다. 정적 화면은 외부 API 키나 로그인 없이 실행된다. Google Fonts를 불러오지 못하면 시스템 글꼴을 사용한다.
+Windows 수집은 설치된 Chrome을, Linux Actions는 Playwright Chromium을 사용한다. 정적 화면은 외부 API 키나 로그인 없이 실행된다. 본사이트와 같은 Pretendard 글꼴과 시스템 설정에 따른 밝은·어두운 테마를 사용한다. 글꼴을 불러오지 못하면 시스템 글꼴을 사용한다.
 
 ## 배포
 
@@ -42,3 +42,4 @@ GitHub Pages의 Source는 GitHub Actions. `main` 푸시는 테스트 후 기존 
 ## 공모전 설명에 사용할 수 있는 범위
 
 ChatGPT/Codex를 활용해 학생의 요구를 정리하고 공개 데이터 수집, 정렬 도구, 검증 및 배포를 구현한 프로젝트다. 서비스의 순위 계산은 명시적인 산술식이며, 방문자의 질의를 실시간으로 ChatGPT Edu에 보내는 기능은 없다. ChatGPT Edu 공식 연동 또는 공모전 수상·승인을 의미하지 않는다.
+
