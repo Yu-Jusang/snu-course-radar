@@ -2,7 +2,8 @@
 
 서울대 공개 강좌의 장바구니 경쟁률과 수강 잔여석을 비교하는 비공식 학생 도구.
 
-- 사이트: https://Yu-Jusang.github.io/snu-course-radar/
+- 공유용 사이트: https://binjari-snu.pages.dev/
+- 데이터 및 기존 사이트: https://Yu-Jusang.github.io/snu-course-radar/
 - 출처: https://sugang.snu.ac.kr/ 의 로그인 없는 전체 강좌 검색
 - 정렬: 장바구니 여유 / 낮은·높은 경쟁률 / 초과 인원 / 수강 잔여석 / 정원 / 강좌명
 - 검색, 이수 구분·학과 필터, 장바구니 미초과만 보기, 즐겨찾기, CSV 내보내기
@@ -43,3 +44,7 @@ GitHub Pages의 Source는 GitHub Actions. `main` 푸시는 테스트 후 기존 
 
 ChatGPT/Codex를 활용해 학생의 요구를 정리하고 공개 데이터 수집, 정렬 도구, 검증 및 배포를 구현한 프로젝트다. 서비스의 순위 계산은 명시적인 산술식이며, 방문자의 질의를 실시간으로 ChatGPT Edu에 보내는 기능은 없다. ChatGPT Edu 공식 연동 또는 공모전 수상·승인을 의미하지 않는다.
 
+
+## Cloudflare 공유용 주소
+
+`binjari-snu.pages.dev`는 동일한 정적 UI를 Cloudflare Pages Direct Upload로 게시한 무료 공유 주소다. 데이터는 기존 GitHub Pages의 공개 JSON을 직접 읽으므로 예약 수집이 성공하면 새 주소에도 반영된다. UI 수정은 `node scripts/package-cloudflare.mjs`로 배포 파일을 만든 후 Cloudflare Pages에서 다시 업로드해야 한다. GitHub 코드 푸시만으로 Cloudflare UI가 자동 배포되지는 않는다.

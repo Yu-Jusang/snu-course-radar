@@ -15,6 +15,7 @@ try {
   const term = (await page.locator('h1').first().innerText()).replace(/홈 바로가기/g, '').replace(/\s+/g, ' ').trim();
   await page.getByRole('link', { name: '강좌 검색 버튼', exact: true }).click();
   await page.locator('a.course-info-detail').first().waitFor();
+  await page.waitForLoadState('networkidle');
   const body = await page.locator('body').innerText();
   const expected = Number(body.match(/검색 결과\s*([\d,]+)\s*건/)?.[1].replaceAll(',', ''));
   if (!expected || expected > 20000) throw new Error('검색 결과 건수를 확인할 수 없습니다.');
@@ -54,6 +55,7 @@ try {
       const first = document.querySelector('a.course-info-detail .course-info > li.txt');
       return first && !first.textContent.includes(previous);
     }, rows[0].id);
+    await page.waitForLoadState('networkidle');
   }
   if (courses.length !== expected) throw new Error('전체 강좌 수 불일치');
   const data = { schemaVersion: 1, term, source: 'https://sugang.snu.ac.kr/', startedAt, updatedAt: new Date().toISOString(), total: expected, courses };
