@@ -2,8 +2,8 @@
   "schemaVersion": 1,
   "term": "2026 - 겨울학기",
   "source": "https://sugang.snu.ac.kr/",
-  "startedAt": "2026-10-30T06:39:52.886Z",
-  "updatedAt": "2026-10-30T06:41:19.864Z",
+  "startedAt": "2026-10-30T08:46:31.475Z",
+  "updatedAt": "2026-10-30T08:47:55.946Z",
   "total": 262,
   "courses": [
     {
@@ -13,14 +13,14 @@
       "department": "아시아언어문명학부",
       "level": "학사",
       "category": "전선",
-      "enrolled": 35,
+      "enrolled": 34,
       "capacity": 35,
       "currentStudentCapacity": 35,
-      "totalEnrolled": 35,
+      "totalEnrolled": 34,
       "credits": 3,
       "schedule": "월(12:00~15:50) 수(12:00~15:50) 금(12:00~15:50)",
       "basket": 53,
-      "flags": "장바구니보류"
+      "flags": "취소여석"
     },
     {
       "id": "101.424(001)",
@@ -52,7 +52,7 @@
       "credits": 3,
       "schedule": "월(15:00~17:50) 수(15:00~17:50) 금(15:00~17:50)",
       "basket": 126,
-      "flags": "장바구니보류"
+      "flags": ""
     },
     {
       "id": "200.106(001)",
@@ -68,7 +68,7 @@
       "credits": 3,
       "schedule": "월(09:00~11:50) 수(09:00~11:50) 금(09:00~11:50)",
       "basket": 145,
-      "flags": "장바구니보류"
+      "flags": ""
     },
     {
       "id": "212.201(001)",
@@ -148,7 +148,7 @@
       "credits": 3,
       "schedule": "월(09:00~11:50) 수(09:00~11:50) 금(09:00~11:50)",
       "basket": 102,
-      "flags": "장바구니보류 R"
+      "flags": "R"
     },
     {
       "id": "212.214(001)",
@@ -196,7 +196,7 @@
       "credits": 3,
       "schedule": "월(12:00~14:50) 수(12:00~14:50) 금(12:00~14:50)",
       "basket": 203,
-      "flags": "장바구니보류"
+      "flags": ""
     },
     {
       "id": "3346.329A(001)",
@@ -260,7 +260,7 @@
       "credits": 2,
       "schedule": "화(13:00~15:50) 목(13:00~15:50)",
       "basket": 62,
-      "flags": "장바구니보류"
+      "flags": ""
     },
     {
       "id": "700.003(001)",
@@ -308,7 +308,7 @@
       "credits": 2,
       "schedule": "수(13:00~15:50) 금(13:00~15:50)",
       "basket": 110,
-      "flags": "장바구니보류"
+      "flags": ""
     },
     {
       "id": "700.004(001)",
@@ -372,7 +372,7 @@
       "credits": 2,
       "schedule": "화(10:00~12:50) 목(10:00~12:50)",
       "basket": 118,
-      "flags": "장바구니보류"
+      "flags": ""
     },
     {
       "id": "700.022(001)",
@@ -388,7 +388,7 @@
       "credits": 2,
       "schedule": "화(10:00~12:50) 목(10:00~12:50)",
       "basket": 59,
-      "flags": "장바구니보류"
+      "flags": ""
     },
     {
       "id": "700.023(001)",
@@ -532,7 +532,7 @@
       "credits": 3,
       "schedule": "월(09:00~11:50) 수(09:00~11:50) 금(09:00~11:50)",
       "basket": 249,
-      "flags": "장바구니보류"
+      "flags": ""
     },
     {
       "id": "881.007(002)",
@@ -548,7 +548,7 @@
       "credits": 3,
       "schedule": "월(12:00~14:50) 수(12:00~14:50) 금(12:00~14:50)",
       "basket": 105,
-      "flags": "장바구니보류"
+      "flags": ""
     },
     {
       "id": "920.703(001)",
@@ -596,7 +596,7 @@
       "credits": 3,
       "schedule": "월(09:00~11:50) 수(09:00~11:50) 금(09:00~11:50)",
       "basket": 95,
-      "flags": "취소여석 장바구니보류"
+      "flags": "취소여석"
     },
     {
       "id": "C10.103(002)",
@@ -612,7 +612,7 @@
       "credits": 3,
       "schedule": "월(12:00~14:50) 수(12:00~14:50) 금(12:00~14:50)",
       "basket": 89,
-      "flags": "장바구니보류"
+      "flags": ""
     },
     {
       "id": "C10.104(002)",
@@ -701,10 +701,10 @@
       "department": "영어영문학과",
       "level": "학사",
       "category": "교양",
-      "enrolled": 30,
+      "enrolled": 31,
       "capacity": 60,
       "currentStudentCapacity": 60,
-      "totalEnrolled": 30,
+      "totalEnrolled": 31,
       "credits": 3,
       "schedule": "월(09:00~11:50) 수(09:00~11:50) 금(09:00~11:50)",
       "basket": 13,
@@ -724,7 +724,7 @@
       "credits": 3,
       "schedule": "월(12:00~14:50) 수(12:00~14:50) 금(12:00~14:50)",
       "basket": 64,
-      "flags": "장바구니보류"
+      "flags": ""
     },
     {
       "id": "C10.142(002)",
@@ -740,7 +740,7 @@
       "credits": 3,
       "schedule": "월(15:00~17:50) 수(15:00~17:50) 금(15:00~17:50)",
       "basket": 74,
-      "flags": "장바구니보류"
+      "flags": ""
     },
     {
       "id": "C10.144(001)",
@@ -772,7 +772,7 @@
       "credits": 3,
       "schedule": "월(15:00~17:50) 수(15:00~17:50) 금(15:00~17:50)",
       "basket": 104,
-      "flags": "장바구니보류"
+      "flags": ""
     },
     {
       "id": "C10.157(001)",
@@ -788,7 +788,7 @@
       "credits": 3,
       "schedule": "월(12:00~14:50) 수(12:00~14:50) 금(12:00~14:50)",
       "basket": 68,
-      "flags": "장바구니보류"
+      "flags": ""
     },
     {
       "id": "C10.160(001)",
@@ -797,14 +797,14 @@
       "department": "국어국문학과",
       "level": "학사",
       "category": "교양",
-      "enrolled": 60,
+      "enrolled": 59,
       "capacity": 60,
       "currentStudentCapacity": 60,
-      "totalEnrolled": 60,
+      "totalEnrolled": 59,
       "credits": 3,
       "schedule": "월(15:00~17:50) 수(15:00~17:50) 금(15:00~17:50)",
       "basket": 49,
-      "flags": ""
+      "flags": "취소여석"
     },
     {
       "id": "C10.165(001)",
@@ -813,14 +813,14 @@
       "department": "국어국문학과",
       "level": "학사",
       "category": "교양",
-      "enrolled": 56,
+      "enrolled": 57,
       "capacity": 60,
       "currentStudentCapacity": 60,
-      "totalEnrolled": 56,
+      "totalEnrolled": 57,
       "credits": 3,
       "schedule": "월(12:00~14:50) 수(12:00~14:50) 금(12:00~14:50)",
       "basket": 66,
-      "flags": "장바구니보류"
+      "flags": ""
     },
     {
       "id": "C10.167(001)",
@@ -877,14 +877,14 @@
       "department": "역사학부(한국사학전공)",
       "level": "학사",
       "category": "교양",
-      "enrolled": 53,
+      "enrolled": 54,
       "capacity": 60,
       "currentStudentCapacity": 60,
-      "totalEnrolled": 53,
+      "totalEnrolled": 54,
       "credits": 3,
       "schedule": "월(12:00~14:50) 수(12:00~14:50) 금(12:00~14:50)",
       "basket": 66,
-      "flags": "장바구니보류"
+      "flags": ""
     },
     {
       "id": "C20.111(001)",
@@ -909,10 +909,10 @@
       "department": "윤리교육과",
       "level": "학사",
       "category": "교양",
-      "enrolled": 37,
+      "enrolled": 39,
       "capacity": 60,
       "currentStudentCapacity": 60,
-      "totalEnrolled": 37,
+      "totalEnrolled": 39,
       "credits": 3,
       "schedule": "월(15:00~17:50) 수(15:00~17:50) 금(15:00~17:50)",
       "basket": 21,
@@ -932,7 +932,7 @@
       "credits": 3,
       "schedule": "월(09:00~11:50) 수(09:00~11:50) 금(09:00~11:50)",
       "basket": 68,
-      "flags": "장바구니보류"
+      "flags": ""
     },
     {
       "id": "C20.117(003)",
@@ -941,14 +941,14 @@
       "department": "윤리교육과",
       "level": "학사",
       "category": "교양",
-      "enrolled": 59,
+      "enrolled": 58,
       "capacity": 60,
       "currentStudentCapacity": 60,
-      "totalEnrolled": 59,
+      "totalEnrolled": 58,
       "credits": 3,
       "schedule": "월(12:00~14:50) 수(12:00~14:50) 금(12:00~14:50)",
       "basket": 76,
-      "flags": "취소여석 장바구니보류"
+      "flags": "취소여석"
     },
     {
       "id": "C20.120(001)",
@@ -989,14 +989,14 @@
       "department": "철학과",
       "level": "학사",
       "category": "교양",
-      "enrolled": 60,
+      "enrolled": 59,
       "capacity": 60,
       "currentStudentCapacity": 60,
-      "totalEnrolled": 60,
+      "totalEnrolled": 59,
       "credits": 3,
       "schedule": "월(15:00~17:50) 수(15:00~17:50) 금(15:00~17:50)",
       "basket": 98,
-      "flags": "장바구니보류"
+      "flags": "취소여석"
     },
     {
       "id": "C20.127(001)",
@@ -1028,7 +1028,7 @@
       "credits": 3,
       "schedule": "월(09:00~11:50) 수(09:00~11:50) 금(09:00~11:50)",
       "basket": 80,
-      "flags": "장바구니보류"
+      "flags": ""
     },
     {
       "id": "C20.140(001)",
@@ -1124,7 +1124,7 @@
       "credits": 3,
       "schedule": "월(12:00~14:50) 수(12:00~14:50) 금(12:00~14:50)",
       "basket": 86,
-      "flags": "장바구니보류"
+      "flags": ""
     },
     {
       "id": "C30.105(001)",
@@ -1133,10 +1133,10 @@
       "department": "정치외교학부(외교학전공)",
       "level": "학사",
       "category": "교양",
-      "enrolled": 40,
+      "enrolled": 42,
       "capacity": 60,
       "currentStudentCapacity": 60,
-      "totalEnrolled": 40,
+      "totalEnrolled": 42,
       "credits": 3,
       "schedule": "월(12:00~14:50) 수(12:00~14:50) 금(12:00~14:50)",
       "basket": 15,
@@ -1156,7 +1156,7 @@
       "credits": 3,
       "schedule": "월(15:00~17:50) 수(15:00~17:50) 금(15:00~17:50)",
       "basket": 71,
-      "flags": "취소여석 장바구니보류"
+      "flags": "취소여석"
     },
     {
       "id": "C30.122(001)",
@@ -1172,7 +1172,7 @@
       "credits": 3,
       "schedule": "월(15:00~17:50) 수(15:00~17:50) 금(15:00~17:50)",
       "basket": 76,
-      "flags": "장바구니보류"
+      "flags": ""
     },
     {
       "id": "C30.126(001)",
@@ -1188,7 +1188,7 @@
       "credits": 3,
       "schedule": "월(09:00~11:50) 수(09:00~11:50) 금(09:00~11:50)",
       "basket": 197,
-      "flags": "장바구니보류"
+      "flags": ""
     },
     {
       "id": "C40.103(001)",
@@ -1197,14 +1197,14 @@
       "department": "철학과",
       "level": "학사",
       "category": "교양",
-      "enrolled": 48,
+      "enrolled": 49,
       "capacity": 60,
       "currentStudentCapacity": 60,
-      "totalEnrolled": 48,
+      "totalEnrolled": 49,
       "credits": 3,
       "schedule": "월(15:00~17:50) 수(15:00~17:50) 금(15:00~17:50)",
       "basket": 62,
-      "flags": "장바구니보류"
+      "flags": ""
     },
     {
       "id": "E11.102(001)",
@@ -1268,7 +1268,7 @@
       "credits": 3,
       "schedule": "월(15:00~17:50) 수(15:00~17:50) 금(15:00~17:50)",
       "basket": 29,
-      "flags": "장바구니보류"
+      "flags": ""
     },
     {
       "id": "E11.104(003)",
@@ -1300,7 +1300,7 @@
       "credits": 3,
       "schedule": "월(12:00~14:50) 수(12:00~14:50) 금(12:00~14:50)",
       "basket": 29,
-      "flags": "취소여석 장바구니보류"
+      "flags": "취소여석"
     },
     {
       "id": "E11.104(005)",
@@ -1325,10 +1325,10 @@
       "department": "",
       "level": "학사",
       "category": "교양",
-      "enrolled": 17,
+      "enrolled": 18,
       "capacity": 25,
       "currentStudentCapacity": 25,
-      "totalEnrolled": 17,
+      "totalEnrolled": 18,
       "credits": 3,
       "schedule": "월(09:00~11:50) 수(09:00~11:50) 금(09:00~11:50)",
       "basket": 10,
@@ -1341,10 +1341,10 @@
       "department": "종교학과",
       "level": "학사",
       "category": "교양",
-      "enrolled": 99,
+      "enrolled": 100,
       "capacity": 120,
       "currentStudentCapacity": 120,
-      "totalEnrolled": 99,
+      "totalEnrolled": 100,
       "credits": 3,
       "schedule": "월(15:00~17:50) 수(15:00~17:50) 금(15:00~17:50)",
       "basket": 65,
@@ -1380,26 +1380,10 @@
       "credits": 3,
       "schedule": "월(09:00~11:50) 수(09:00~11:50) 금(09:00~11:50)",
       "basket": 85,
-      "flags": "장바구니보류"
+      "flags": ""
     },
     {
       "id": "E11.128(001)",
-      "name": "북한학개론",
-      "instructor": "배영애",
-      "department": "윤리교육과",
-      "level": "학사",
-      "category": "교양",
-      "enrolled": 114,
-      "capacity": 120,
-      "currentStudentCapacity": 120,
-      "totalEnrolled": 114,
-      "credits": 3,
-      "schedule": "월(09:00~11:50) 수(09:00~11:50) 금(09:00~11:50)",
-      "basket": 122,
-      "flags": "장바구니보류"
-    },
-    {
-      "id": "E11.128(002)",
       "name": "북한학개론",
       "instructor": "배영애",
       "department": "윤리교육과",
@@ -1410,9 +1394,25 @@
       "currentStudentCapacity": 120,
       "totalEnrolled": 115,
       "credits": 3,
+      "schedule": "월(09:00~11:50) 수(09:00~11:50) 금(09:00~11:50)",
+      "basket": 122,
+      "flags": ""
+    },
+    {
+      "id": "E11.128(002)",
+      "name": "북한학개론",
+      "instructor": "배영애",
+      "department": "윤리교육과",
+      "level": "학사",
+      "category": "교양",
+      "enrolled": 116,
+      "capacity": 120,
+      "currentStudentCapacity": 120,
+      "totalEnrolled": 116,
+      "credits": 3,
       "schedule": "월(12:00~14:50) 수(12:00~14:50) 금(12:00~14:50)",
       "basket": 132,
-      "flags": "장바구니보류"
+      "flags": ""
     },
     {
       "id": "E11.128(003)",
@@ -1437,10 +1437,10 @@
       "department": "서양화과",
       "level": "학사",
       "category": "교양",
-      "enrolled": 26,
+      "enrolled": 25,
       "capacity": 50,
       "currentStudentCapacity": 50,
-      "totalEnrolled": 26,
+      "totalEnrolled": 25,
       "credits": 3,
       "schedule": "월(10:00~12:50) 수(10:00~12:50) 금(10:00~12:50)",
       "basket": 17,
@@ -1460,7 +1460,7 @@
       "credits": 3,
       "schedule": "월(15:00~17:50) 수(15:00~17:50) 금(15:00~17:50)",
       "basket": 128,
-      "flags": "장바구니보류"
+      "flags": ""
     },
     {
       "id": "E11.146(002)",
@@ -1469,14 +1469,14 @@
       "department": "심리학과",
       "level": "학사",
       "category": "교양",
-      "enrolled": 100,
+      "enrolled": 99,
       "capacity": 100,
       "currentStudentCapacity": 100,
-      "totalEnrolled": 100,
+      "totalEnrolled": 99,
       "credits": 3,
       "schedule": "월(09:00~11:50) 수(09:00~11:50) 금(09:00~11:50)",
       "basket": 45,
-      "flags": ""
+      "flags": "취소여석"
     },
     {
       "id": "E11.146(003)",
@@ -1485,14 +1485,14 @@
       "department": "심리학과",
       "level": "학사",
       "category": "교양",
-      "enrolled": 87,
+      "enrolled": 88,
       "capacity": 100,
       "currentStudentCapacity": 100,
-      "totalEnrolled": 87,
+      "totalEnrolled": 88,
       "credits": 3,
       "schedule": "월(12:00~14:50) 수(12:00~14:50) 금(12:00~14:50)",
       "basket": 104,
-      "flags": "장바구니보류"
+      "flags": ""
     },
     {
       "id": "E11.163(001)",
@@ -1524,7 +1524,7 @@
       "credits": 3,
       "schedule": "월(15:00~17:50) 수(15:00~17:50) 금(15:00~17:50)",
       "basket": 110,
-      "flags": "장바구니보류"
+      "flags": ""
     },
     {
       "id": "E11.188(001)",
@@ -1549,10 +1549,10 @@
       "department": "",
       "level": "학사",
       "category": "교양",
-      "enrolled": 64,
+      "enrolled": 63,
       "capacity": 100,
       "currentStudentCapacity": 100,
-      "totalEnrolled": 64,
+      "totalEnrolled": 63,
       "credits": 3,
       "schedule": "수(12:00~14:50) 목(12:00~14:50) 금(12:00~14:50)",
       "basket": 38,
@@ -1716,7 +1716,7 @@
       "credits": 2,
       "schedule": "월(10:00~10:50) 월(11:00~12:50) 화(10:00~10:50) 화(11:00~12:50) 수(10:00~10:50) 수(11:00~12:50)",
       "basket": 33,
-      "flags": "장바구니보류 R"
+      "flags": "R"
     },
     {
       "id": "E41.103(001)",
@@ -1732,7 +1732,7 @@
       "credits": 2,
       "schedule": "월(09:00~13:50) 수(09:00~13:50)",
       "basket": 42,
-      "flags": "장바구니보류 R"
+      "flags": "R"
     },
     {
       "id": "E41.104(001)",
@@ -1748,7 +1748,7 @@
       "credits": 2,
       "schedule": "월(14:00~14:50) 월(15:00~16:50) 화(14:00~14:50) 화(15:00~16:50) 수(14:00~14:50) 수(15:00~16:50)",
       "basket": 40,
-      "flags": "장바구니보류 R"
+      "flags": "R"
     },
     {
       "id": "E43.102(001)",
@@ -1764,7 +1764,7 @@
       "credits": 1,
       "schedule": "월(09:00~11:50) 수(09:00~11:50)",
       "basket": 48,
-      "flags": "장바구니보류"
+      "flags": ""
     },
     {
       "id": "E43.102(002)",
@@ -1780,7 +1780,7 @@
       "credits": 1,
       "schedule": "월(12:00~14:50) 수(12:00~14:50)",
       "basket": 39,
-      "flags": "장바구니보류"
+      "flags": ""
     },
     {
       "id": "E43.102(003)",
@@ -1796,7 +1796,7 @@
       "credits": 1,
       "schedule": "화(09:00~11:50) 목(09:00~11:50)",
       "basket": 56,
-      "flags": "장바구니보류"
+      "flags": ""
     },
     {
       "id": "E43.102(004)",
@@ -1812,7 +1812,7 @@
       "credits": 1,
       "schedule": "화(12:00~14:50) 목(12:00~14:50)",
       "basket": 62,
-      "flags": "장바구니보류"
+      "flags": ""
     },
     {
       "id": "E43.103(001)",
@@ -1821,10 +1821,10 @@
       "department": "체육교육과",
       "level": "학사",
       "category": "교양",
-      "enrolled": 14,
+      "enrolled": 15,
       "capacity": 30,
       "currentStudentCapacity": 30,
-      "totalEnrolled": 14,
+      "totalEnrolled": 15,
       "credits": 1,
       "schedule": "월(11:00~13:50) 수(11:00~13:50)",
       "basket": 6,
@@ -1844,7 +1844,7 @@
       "credits": 1,
       "schedule": "월(14:00~16:50) 수(14:00~16:50)",
       "basket": 31,
-      "flags": "장바구니보류"
+      "flags": ""
     },
     {
       "id": "E43.103(003)",
@@ -1860,7 +1860,7 @@
       "credits": 1,
       "schedule": "화(11:00~13:50) 목(11:00~13:50)",
       "basket": 47,
-      "flags": "장바구니보류"
+      "flags": ""
     },
     {
       "id": "E43.103(004)",
@@ -1876,7 +1876,7 @@
       "credits": 1,
       "schedule": "화(14:00~16:50) 목(14:00~16:50)",
       "basket": 44,
-      "flags": "장바구니보류"
+      "flags": ""
     },
     {
       "id": "E43.104(001)",
@@ -1892,7 +1892,7 @@
       "credits": 1,
       "schedule": "화(11:00~13:50) 목(11:00~13:50)",
       "basket": 35,
-      "flags": "장바구니보류"
+      "flags": ""
     },
     {
       "id": "E43.104(002)",
@@ -1908,7 +1908,7 @@
       "credits": 1,
       "schedule": "화(14:00~16:50) 목(14:00~16:50)",
       "basket": 36,
-      "flags": "장바구니보류"
+      "flags": ""
     },
     {
       "id": "E43.107(001)",
@@ -1924,7 +1924,7 @@
       "credits": 1,
       "schedule": "월(09:00~10:50) 수(09:00~10:50) 금(09:00~10:50)",
       "basket": 43,
-      "flags": "장바구니보류"
+      "flags": ""
     },
     {
       "id": "E43.107(002)",
@@ -1940,7 +1940,7 @@
       "credits": 1,
       "schedule": "월(11:00~12:50) 수(11:00~12:50) 금(11:00~12:50)",
       "basket": 41,
-      "flags": "장바구니보류"
+      "flags": ""
     },
     {
       "id": "E43.107(003)",
@@ -1956,7 +1956,7 @@
       "credits": 1,
       "schedule": "월(13:00~14:50) 수(13:00~14:50) 금(13:00~14:50)",
       "basket": 47,
-      "flags": "장바구니보류"
+      "flags": ""
     },
     {
       "id": "E43.107(004)",
@@ -1972,7 +1972,7 @@
       "credits": 1,
       "schedule": "월(15:00~16:50) 수(15:00~16:50) 금(15:00~16:50)",
       "basket": 61,
-      "flags": "장바구니보류"
+      "flags": ""
     },
     {
       "id": "E43.107(005)",
@@ -1988,7 +1988,7 @@
       "credits": 1,
       "schedule": "화(10:00~12:50) 목(10:00~12:50)",
       "basket": 69,
-      "flags": "장바구니보류"
+      "flags": ""
     },
     {
       "id": "E43.107(006)",
@@ -2004,7 +2004,7 @@
       "credits": 1,
       "schedule": "화(13:00~15:50) 목(13:00~15:50)",
       "basket": 55,
-      "flags": "장바구니보류"
+      "flags": ""
     },
     {
       "id": "E43.108(001)",
@@ -2020,7 +2020,7 @@
       "credits": 1,
       "schedule": "화(11:00~13:50) 목(11:00~13:50)",
       "basket": 48,
-      "flags": "장바구니보류"
+      "flags": ""
     },
     {
       "id": "E43.109(001)",
@@ -2036,7 +2036,7 @@
       "credits": 1,
       "schedule": "화(14:00~16:50) 목(14:00~16:50)",
       "basket": 46,
-      "flags": "장바구니보류"
+      "flags": ""
     },
     {
       "id": "E43.110(001)",
@@ -2052,7 +2052,7 @@
       "credits": 1,
       "schedule": "월(11:00~12:50) 수(11:00~12:50) 금(11:00~12:50)",
       "basket": 45,
-      "flags": "장바구니보류"
+      "flags": ""
     },
     {
       "id": "E43.111(001)",
@@ -2068,7 +2068,7 @@
       "credits": 1,
       "schedule": "월(13:00~14:50) 수(13:00~14:50) 금(13:00~14:50)",
       "basket": 30,
-      "flags": "장바구니보류"
+      "flags": ""
     },
     {
       "id": "E43.118(001)",
@@ -2084,7 +2084,7 @@
       "credits": 1,
       "schedule": "월(09:00~10:50) 수(09:00~10:50) 금(09:00~10:50)",
       "basket": 34,
-      "flags": "장바구니보류"
+      "flags": ""
     },
     {
       "id": "E43.118(002)",
@@ -2132,7 +2132,7 @@
       "credits": 1,
       "schedule": "월(15:00~16:50) 수(15:00~16:50) 금(15:00~16:50)",
       "basket": 32,
-      "flags": "장바구니보류"
+      "flags": ""
     },
     {
       "id": "E43.118(005)",
@@ -2141,10 +2141,10 @@
       "department": "체육교육과",
       "level": "학사",
       "category": "교양",
-      "enrolled": 14,
+      "enrolled": 15,
       "capacity": 30,
       "currentStudentCapacity": 30,
-      "totalEnrolled": 14,
+      "totalEnrolled": 15,
       "credits": 1,
       "schedule": "월(09:00~11:50) 수(09:00~11:50)",
       "basket": 7,
@@ -2180,7 +2180,7 @@
       "credits": 1,
       "schedule": "화(09:00~11:50) 목(09:00~11:50)",
       "basket": 35,
-      "flags": "장바구니보류"
+      "flags": ""
     },
     {
       "id": "E43.118(008)",
@@ -2196,7 +2196,7 @@
       "credits": 1,
       "schedule": "화(12:00~14:50) 목(12:00~14:50)",
       "basket": 46,
-      "flags": "장바구니보류"
+      "flags": ""
     },
     {
       "id": "E43.123(001)",
@@ -2244,7 +2244,7 @@
       "credits": 1,
       "schedule": "화(13:00~15:50) 목(13:00~15:50)",
       "basket": 77,
-      "flags": "장바구니보류"
+      "flags": ""
     },
     {
       "id": "E43.124(001)",
@@ -2285,14 +2285,14 @@
       "department": "체육교육과",
       "level": "학사",
       "category": "교양",
-      "enrolled": 30,
+      "enrolled": 29,
       "capacity": 30,
       "currentStudentCapacity": 30,
-      "totalEnrolled": 30,
+      "totalEnrolled": 29,
       "credits": 1,
       "schedule": "월(11:00~12:50) 수(11:00~12:50) 금(11:00~12:50)",
       "basket": 46,
-      "flags": "장바구니보류"
+      "flags": "취소여석"
     },
     {
       "id": "E43.131(001)",
@@ -2308,7 +2308,7 @@
       "credits": 1,
       "schedule": "화(10:00~12:50) 목(10:00~12:50)",
       "basket": 68,
-      "flags": "장바구니보류"
+      "flags": ""
     },
     {
       "id": "F11.101(001)",
@@ -2340,7 +2340,7 @@
       "credits": 2,
       "schedule": "월(15:00~17:50) 수(15:00~17:50) 금(15:00~17:50)",
       "basket": 31,
-      "flags": "장바구니보류"
+      "flags": ""
     },
     {
       "id": "F11.203(001)",
@@ -2356,7 +2356,7 @@
       "credits": 2,
       "schedule": "월(09:00~11:50) 수(09:00~11:50) 금(09:00~11:50)",
       "basket": 73,
-      "flags": "장바구니보류"
+      "flags": ""
     },
     {
       "id": "F11.203(002)",
@@ -2372,7 +2372,7 @@
       "credits": 2,
       "schedule": "월(12:00~14:50) 수(12:00~14:50) 금(12:00~14:50)",
       "basket": 174,
-      "flags": "장바구니보류"
+      "flags": ""
     },
     {
       "id": "F12.101(001)",
@@ -2404,7 +2404,7 @@
       "credits": 3,
       "schedule": "월(15:00~17:50) 수(15:00~17:50) 금(15:00~17:50)",
       "basket": 94,
-      "flags": "장바구니보류 외국어강의"
+      "flags": "외국어강의"
     },
     {
       "id": "F21.202(001)",
@@ -2420,7 +2420,7 @@
       "credits": 3,
       "schedule": "월(09:00~11:50) 수(09:00~11:50) 금(09:00~11:50)",
       "basket": 30,
-      "flags": "장바구니보류 외국어강의"
+      "flags": "외국어강의"
     },
     {
       "id": "F21.202(002)",
@@ -2436,7 +2436,7 @@
       "credits": 3,
       "schedule": "월(12:00~14:50) 수(12:00~14:50) 금(12:00~14:50)",
       "basket": 41,
-      "flags": "장바구니보류 외국어강의"
+      "flags": "외국어강의"
     },
     {
       "id": "F21.202(003)",
@@ -2468,7 +2468,7 @@
       "credits": 3,
       "schedule": "월(15:00~17:50) 수(15:00~17:50) 금(15:00~17:50)",
       "basket": 42,
-      "flags": "장바구니보류 외국어강의"
+      "flags": "외국어강의"
     },
     {
       "id": "F21.202(005)",
@@ -2484,7 +2484,7 @@
       "credits": 3,
       "schedule": "월(12:00~14:50) 수(12:00~14:50) 금(12:00~14:50)",
       "basket": 27,
-      "flags": "장바구니보류 외국어강의"
+      "flags": "외국어강의"
     },
     {
       "id": "F21.301(001)",
@@ -2500,7 +2500,7 @@
       "credits": 3,
       "schedule": "월(12:00~14:50) 수(12:00~14:50) 금(12:00~14:50)",
       "basket": 43,
-      "flags": "장바구니보류 외국어강의"
+      "flags": "외국어강의"
     },
     {
       "id": "F21.302(001)",
@@ -2532,7 +2532,7 @@
       "credits": 3,
       "schedule": "월(15:00~17:50) 수(15:00~17:50) 금(15:00~17:50)",
       "basket": 36,
-      "flags": "장바구니보류 외국어강의"
+      "flags": "외국어강의"
     },
     {
       "id": "F22.101(001)",
@@ -2548,7 +2548,7 @@
       "credits": 3,
       "schedule": "월(09:00~11:50) 화(09:30~10:45) 화(11:00~12:15) 수(09:00~11:50) 금(09:00~11:50)",
       "basket": 36,
-      "flags": "장바구니보류"
+      "flags": ""
     },
     {
       "id": "F22.101(002)",
@@ -2564,7 +2564,7 @@
       "credits": 3,
       "schedule": "월(12:00~14:50) 화(12:30~13:45) 화(14:00~15:15) 수(12:00~14:50) 금(12:00~14:50)",
       "basket": 64,
-      "flags": "장바구니보류"
+      "flags": ""
     },
     {
       "id": "F22.101(003)",
@@ -2596,7 +2596,7 @@
       "credits": 3,
       "schedule": "월(15:00~17:50) 수(15:00~17:50) 목(12:30~13:45) 목(14:00~15:15) 금(15:00~17:50)",
       "basket": 33,
-      "flags": "장바구니보류"
+      "flags": ""
     },
     {
       "id": "F23.101(001)",
@@ -2628,7 +2628,7 @@
       "credits": 3,
       "schedule": "월(09:00~11:50) 월(12:00~13:20) 수(09:00~11:50) 수(12:00~13:20) 금(09:00~11:50)",
       "basket": 38,
-      "flags": "장바구니보류"
+      "flags": ""
     },
     {
       "id": "F24.101(002)",
@@ -2644,7 +2644,7 @@
       "credits": 3,
       "schedule": "월(09:00~11:50) 월(15:30~16:45) 수(09:00~11:50) 수(15:30~16:45) 금(09:00~11:50)",
       "basket": 37,
-      "flags": "장바구니보류"
+      "flags": ""
     },
     {
       "id": "F24.101(003)",
@@ -2676,7 +2676,7 @@
       "credits": 3,
       "schedule": "월(12:00~14:50) 월(15:30~16:45) 수(12:00~14:50) 수(15:30~16:45) 금(12:00~14:50)",
       "basket": 71,
-      "flags": "장바구니보류"
+      "flags": ""
     },
     {
       "id": "F24.101(005)",
@@ -2685,10 +2685,10 @@
       "department": "서어서문학과",
       "level": "학사",
       "category": "교양",
-      "enrolled": 12,
+      "enrolled": 13,
       "capacity": 30,
       "currentStudentCapacity": 30,
-      "totalEnrolled": 12,
+      "totalEnrolled": 13,
       "credits": 3,
       "schedule": "월(15:00~17:50) 월(09:30~10:45) 수(15:00~17:50) 수(09:30~10:45) 금(15:00~17:50)",
       "basket": 4,
@@ -2708,7 +2708,7 @@
       "credits": 3,
       "schedule": "월(15:00~17:50) 월(13:30~14:50) 수(15:00~17:50) 수(13:30~14:50) 금(15:00~17:50)",
       "basket": 76,
-      "flags": "장바구니보류"
+      "flags": ""
     },
     {
       "id": "F24.102(001)",
@@ -2756,7 +2756,7 @@
       "credits": 3,
       "schedule": "월(09:00~11:50) 월(12:30~13:45) 수(09:00~11:50) 수(12:30~13:45) 금(09:00~11:50)",
       "basket": 33,
-      "flags": "장바구니보류"
+      "flags": ""
     },
     {
       "id": "F25.102(001)",
@@ -2820,7 +2820,7 @@
       "credits": 3,
       "schedule": "월(12:00~14:50) 월(10:30~11:50) 수(12:00~14:50) 수(10:30~11:50) 금(12:00~14:50)",
       "basket": 47,
-      "flags": "장바구니보류"
+      "flags": ""
     },
     {
       "id": "F26.102(001)",
@@ -2868,7 +2868,7 @@
       "credits": 3,
       "schedule": "월(09:00~11:50) 수(09:00~11:50) 금(09:00~11:50)",
       "basket": 89,
-      "flags": "장바구니보류"
+      "flags": ""
     },
     {
       "id": "F28.102(001)",
@@ -2877,10 +2877,10 @@
       "department": "중어중문학과",
       "level": "학사",
       "category": "교양",
-      "enrolled": 17,
+      "enrolled": 18,
       "capacity": 30,
       "currentStudentCapacity": 30,
-      "totalEnrolled": 17,
+      "totalEnrolled": 18,
       "credits": 3,
       "schedule": "월(12:00~14:50) 수(12:00~14:50) 금(12:00~14:50)",
       "basket": 13,
@@ -2893,10 +2893,10 @@
       "department": "중어중문학과",
       "level": "학사",
       "category": "교양",
-      "enrolled": 13,
+      "enrolled": 14,
       "capacity": 30,
       "currentStudentCapacity": 30,
-      "totalEnrolled": 13,
+      "totalEnrolled": 14,
       "credits": 3,
       "schedule": "월(15:00~17:50) 수(15:00~17:50) 금(15:00~17:50)",
       "basket": 10,
@@ -2916,7 +2916,7 @@
       "credits": 3,
       "schedule": "월(12:00~14:50) 수(12:00~14:50) 금(12:00~14:50)",
       "basket": 116,
-      "flags": "장바구니보류"
+      "flags": ""
     },
     {
       "id": "F29.103(004)",
@@ -2932,7 +2932,7 @@
       "credits": 3,
       "schedule": "월(09:00~11:50) 수(09:00~11:50) 금(09:00~11:50)",
       "basket": 94,
-      "flags": "장바구니보류"
+      "flags": ""
     },
     {
       "id": "F29.104(002)",
@@ -2957,10 +2957,10 @@
       "department": "언어학과",
       "level": "학사",
       "category": "교양",
-      "enrolled": 23,
+      "enrolled": 26,
       "capacity": 30,
       "currentStudentCapacity": 30,
-      "totalEnrolled": 23,
+      "totalEnrolled": 26,
       "credits": 3,
       "schedule": "월(12:00~14:50) 월(15:00~15:50) 수(12:00~14:50) 수(15:00~15:50) 금(12:00~14:50) 금(15:00~15:50)",
       "basket": 12,
@@ -2996,7 +2996,7 @@
       "credits": 2,
       "schedule": "월(11:00~12:50) 수(11:00~12:50) 금(11:00~12:50)",
       "basket": 120,
-      "flags": "장바구니보류"
+      "flags": ""
     },
     {
       "id": "F31.104(002)",
@@ -3012,7 +3012,7 @@
       "credits": 2,
       "schedule": "월(13:00~14:50) 수(13:00~14:50) 금(13:00~14:50)",
       "basket": 127,
-      "flags": "장바구니보류"
+      "flags": ""
     },
     {
       "id": "F31.104L(001)",
@@ -3028,7 +3028,7 @@
       "credits": 1,
       "schedule": "월(13:00~14:50) 수(13:00~14:50) 금(13:00~14:50)",
       "basket": 39,
-      "flags": "장바구니보류"
+      "flags": ""
     },
     {
       "id": "F31.104L(002)",
@@ -3044,7 +3044,7 @@
       "credits": 1,
       "schedule": "월(15:00~16:50) 수(15:00~16:50) 금(15:00~16:50)",
       "basket": 25,
-      "flags": "장바구니보류"
+      "flags": ""
     },
     {
       "id": "F31.105(001)",
@@ -3060,7 +3060,7 @@
       "credits": 2,
       "schedule": "월(11:00~12:50) 수(11:00~12:50) 금(11:00~12:50)",
       "basket": 123,
-      "flags": "장바구니보류"
+      "flags": ""
     },
     {
       "id": "F31.105(002)",
@@ -3076,7 +3076,7 @@
       "credits": 2,
       "schedule": "월(13:00~14:50) 수(13:00~14:50) 금(13:00~14:50)",
       "basket": 125,
-      "flags": "장바구니보류"
+      "flags": ""
     },
     {
       "id": "F31.105L(001)",
@@ -3092,7 +3092,7 @@
       "credits": 1,
       "schedule": "월(13:00~14:50) 수(13:00~14:50) 금(13:00~14:50)",
       "basket": 73,
-      "flags": "장바구니보류"
+      "flags": ""
     },
     {
       "id": "F31.105L(002)",
@@ -3108,7 +3108,7 @@
       "credits": 1,
       "schedule": "월(15:00~16:50) 수(15:00~16:50) 금(15:00~16:50)",
       "basket": 77,
-      "flags": "장바구니보류"
+      "flags": ""
     },
     {
       "id": "F31.201(001)",
@@ -3124,7 +3124,7 @@
       "credits": 3,
       "schedule": "월(15:00~17:50) 수(15:00~17:50) 금(15:00~17:50)",
       "basket": 65,
-      "flags": "장바구니보류"
+      "flags": ""
     },
     {
       "id": "F31.202(001)",
@@ -3133,10 +3133,10 @@
       "department": "",
       "level": "학사",
       "category": "교양",
-      "enrolled": 27,
+      "enrolled": 28,
       "capacity": 50,
       "currentStudentCapacity": 50,
-      "totalEnrolled": 27,
+      "totalEnrolled": 28,
       "credits": 3,
       "schedule": "월(10:00~12:50) 수(10:00~12:50) 금(10:00~12:50)",
       "basket": 20,
@@ -3156,7 +3156,7 @@
       "credits": 3,
       "schedule": "월(12:00~14:50) 수(12:00~14:50) 금(12:00~14:50)",
       "basket": 128,
-      "flags": "장바구니보류 R"
+      "flags": "R"
     },
     {
       "id": "F32.102L(001)",
@@ -3172,7 +3172,7 @@
       "credits": 1,
       "schedule": "월(15:00~16:50) 수(15:00~16:50) 금(15:00~16:50)",
       "basket": 124,
-      "flags": "장바구니보류 R"
+      "flags": "R"
     },
     {
       "id": "F35.103(001)",
@@ -3188,7 +3188,7 @@
       "credits": 3,
       "schedule": "월(13:00~15:50) 수(13:00~15:50) 금(13:00~15:50)",
       "basket": 50,
-      "flags": "장바구니보류"
+      "flags": ""
     },
     {
       "id": "F35.103(002)",
@@ -3204,7 +3204,7 @@
       "credits": 3,
       "schedule": "월(15:00~17:50) 수(15:00~17:50) 금(15:00~17:50)",
       "basket": 59,
-      "flags": "장바구니보류"
+      "flags": ""
     },
     {
       "id": "F35.103(003)",
@@ -3220,7 +3220,7 @@
       "credits": 3,
       "schedule": "월(12:00~14:50) 수(12:00~14:50) 금(12:00~14:50)",
       "basket": 77,
-      "flags": "장바구니보류"
+      "flags": ""
     },
     {
       "id": "F37.101(001)",
@@ -3236,7 +3236,7 @@
       "credits": 3,
       "schedule": "수(10:00~11:50) 수(13:00~14:50) 목(10:00~11:50) 목(13:00~14:50) 금(10:00~11:50) 금(13:00~14:50)",
       "basket": 105,
-      "flags": "장바구니보류"
+      "flags": ""
     },
     {
       "id": "F37.101(002)",
@@ -3245,14 +3245,14 @@
       "department": "",
       "level": "학사",
       "category": "교양",
-      "enrolled": 41,
+      "enrolled": 40,
       "capacity": 40,
       "currentStudentCapacity": 40,
-      "totalEnrolled": 41,
+      "totalEnrolled": 40,
       "credits": 3,
       "schedule": "월(13:00~14:50) 월(16:00~17:50) 수(13:00~14:50) 수(16:00~17:50) 금(13:00~14:50) 금(16:00~17:50)",
       "basket": 83,
-      "flags": "장바구니보류"
+      "flags": ""
     },
     {
       "id": "M0.002000(001)",
@@ -3325,10 +3325,10 @@
       "department": "",
       "level": "대학원",
       "category": "전선",
-      "enrolled": 35,
+      "enrolled": 36,
       "capacity": 40,
       "currentStudentCapacity": 40,
-      "totalEnrolled": 35,
+      "totalEnrolled": 36,
       "credits": 1,
       "schedule": "월(11:00~11:50) 화(11:00~11:50) 수(11:00~11:50)",
       "basket": 27,
@@ -3348,7 +3348,7 @@
       "credits": 2,
       "schedule": "월(12:30~13:45) 월(09:00~12:20) 수(12:30~13:45) 수(09:00~12:20)",
       "basket": 30,
-      "flags": "장바구니보류 R"
+      "flags": "R"
     },
     {
       "id": "M2199.002100(001)",
@@ -3572,7 +3572,7 @@
       "credits": 2,
       "schedule": "월(15:00~17:50) 화(15:00~17:50) 수(15:00~17:50) 목(15:00~17:50)",
       "basket": 51,
-      "flags": "장바구니보류 C"
+      "flags": "C"
     },
     {
       "id": "M3311.000600(001)",
@@ -3677,10 +3677,10 @@
       "department": "",
       "level": "학사",
       "category": "전선",
-      "enrolled": 10,
+      "enrolled": 9,
       "capacity": 60,
       "currentStudentCapacity": 60,
-      "totalEnrolled": 10,
+      "totalEnrolled": 9,
       "credits": 2,
       "schedule": "월(15:00~17:50) 화(15:00~17:50) 수(15:00~17:50) 목(15:00~17:50)",
       "basket": 0,
@@ -3700,7 +3700,7 @@
       "credits": 3,
       "schedule": "",
       "basket": 16,
-      "flags": "장바구니보류 C"
+      "flags": "C"
     },
     {
       "id": "M3500.003800(001)",
@@ -3716,7 +3716,7 @@
       "credits": 3,
       "schedule": "월(15:00~17:50) 화(15:00~17:50) 수(15:00~17:50)",
       "basket": 79,
-      "flags": "취소여석 장바구니보류"
+      "flags": "취소여석"
     },
     {
       "id": "M3500.004400(001)",
@@ -3725,10 +3725,10 @@
       "department": "",
       "level": "학사",
       "category": "전선",
-      "enrolled": 29,
+      "enrolled": 30,
       "capacity": 40,
       "currentStudentCapacity": 40,
-      "totalEnrolled": 29,
+      "totalEnrolled": 30,
       "credits": 3,
       "schedule": "화(09:00~11:50) 수(09:00~11:50) 목(09:00~11:50)",
       "basket": 12,
@@ -3789,10 +3789,10 @@
       "department": "",
       "level": "학사",
       "category": "전선",
-      "enrolled": 28,
+      "enrolled": 29,
       "capacity": 30,
       "currentStudentCapacity": 30,
-      "totalEnrolled": 28,
+      "totalEnrolled": 29,
       "credits": 3,
       "schedule": "월(12:00~14:50) 화(12:00~14:50) 수(12:00~14:50)",
       "basket": 7,
@@ -3821,10 +3821,10 @@
       "department": "",
       "level": "학사",
       "category": "전선",
-      "enrolled": 39,
+      "enrolled": 38,
       "capacity": 80,
       "currentStudentCapacity": 80,
-      "totalEnrolled": 39,
+      "totalEnrolled": 38,
       "credits": 3,
       "schedule": "화(12:00~14:50) 수(12:00~14:50) 목(12:00~14:50)",
       "basket": 19,
@@ -3885,10 +3885,10 @@
       "department": "혁신공유학부",
       "level": "학사",
       "category": "전선",
-      "enrolled": 22,
+      "enrolled": 21,
       "capacity": 30,
       "currentStudentCapacity": 30,
-      "totalEnrolled": 22,
+      "totalEnrolled": 21,
       "credits": 3,
       "schedule": "화(13:00~15:50) 수(13:00~15:50) 목(13:00~15:50)",
       "basket": 15,
@@ -3940,7 +3940,7 @@
       "credits": 3,
       "schedule": "월(15:00~17:50) 수(15:00~17:50) 금(15:00~17:50)",
       "basket": 14,
-      "flags": "장바구니보류"
+      "flags": ""
     },
     {
       "id": "M3502.015100(001)",
@@ -3949,14 +3949,14 @@
       "department": "혁신공유학부",
       "level": "학사",
       "category": "전선",
-      "enrolled": 8,
+      "enrolled": 9,
       "capacity": 10,
       "currentStudentCapacity": 10,
-      "totalEnrolled": 8,
+      "totalEnrolled": 9,
       "credits": 3,
       "schedule": "수(14:00~16:50)",
       "basket": 13,
-      "flags": "장바구니보류"
+      "flags": ""
     },
     {
       "id": "M3502.015500(001)",
@@ -3972,7 +3972,7 @@
       "credits": 3,
       "schedule": "",
       "basket": 90,
-      "flags": "장바구니보류 o"
+      "flags": "o"
     },
     {
       "id": "M3502.015600(001)",
@@ -3988,7 +3988,7 @@
       "credits": 3,
       "schedule": "",
       "basket": 139,
-      "flags": "장바구니보류 o"
+      "flags": "o"
     },
     {
       "id": "M3502.015900(001)",
@@ -4004,7 +4004,7 @@
       "credits": 3,
       "schedule": "",
       "basket": 69,
-      "flags": "장바구니보류 o"
+      "flags": "o"
     },
     {
       "id": "M3502.017000(001)",
@@ -4029,14 +4029,14 @@
       "department": "혁신공유학부",
       "level": "학사",
       "category": "일선",
-      "enrolled": 3,
-      "capacity": 3,
-      "currentStudentCapacity": 3,
-      "totalEnrolled": 3,
+      "enrolled": 2,
+      "capacity": 6,
+      "currentStudentCapacity": 6,
+      "totalEnrolled": 2,
       "credits": 3,
       "schedule": "",
       "basket": 2,
-      "flags": ""
+      "flags": "취소여석"
     },
     {
       "id": "M3502.020200(002)",
@@ -4061,14 +4061,14 @@
       "department": "혁신공유학부",
       "level": "학사",
       "category": "전선",
-      "enrolled": 56,
+      "enrolled": 57,
       "capacity": 60,
       "currentStudentCapacity": 60,
-      "totalEnrolled": 56,
+      "totalEnrolled": 57,
       "credits": 3,
       "schedule": "",
       "basket": 70,
-      "flags": "장바구니보류 o"
+      "flags": "o"
     },
     {
       "id": "T1831.000300(001)",
@@ -4148,7 +4148,7 @@
       "credits": 2,
       "schedule": "월(10:00~12:50) 수(10:00~12:50)",
       "basket": 32,
-      "flags": "장바구니보류"
+      "flags": ""
     },
     {
       "id": "T2184.001300(001)",
