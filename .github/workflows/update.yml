@@ -1,4 +1,4 @@
-name: Collect public courses and publish
+name: Collect public courses
 on:
   push:
     branches: [main]
@@ -7,8 +7,6 @@ on:
     - cron: '3,13,23,33,43,53 * * * *'
 permissions:
   contents: write
-  pages: write
-  id-token: write
 concurrency:
   group: course-radar-publish
   cancel-in-progress: false
@@ -40,19 +38,6 @@ jobs:
             git commit -m 'Update public course snapshot and collection status'
             git push
           fi
-      - uses: actions/configure-pages@v5
-      - uses: actions/upload-pages-artifact@v3
-        with:
-          path: docs
       - name: Report failed collection
         if: steps.collect.outcome == 'failure'
-        run: echo '::warning::Collection failed; deploying the last successful snapshot with a visible delay notice.'
-  deploy:
-    needs: build
-    runs-on: ubuntu-latest
-    environment:
-      name: github-pages
-      url: ${{ steps.deployment.outputs.page_url }}
-    steps:
-      - uses: actions/deploy-pages@v4
-        id: deployment
+        run: echo '::warning::Collection failed; the last successful snapshot remains available.'

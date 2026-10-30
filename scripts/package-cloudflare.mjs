@@ -9,7 +9,7 @@ for (const file of ['index.html', 'style.css', 'model.js', 'icon.svg']) {
   await copyFile(new URL('../docs/' + file, import.meta.url), join(target, file));
 }
 const app = await readFile(new URL('../docs/app.js', import.meta.url), 'utf8');
-const migrated = app.replaceAll('fetch(`data/', 'fetch(`https://yu-jusang.github.io/snu-course-radar/data/');
+const migrated = app.replaceAll('fetch(`data/', 'fetch(`https://raw.githubusercontent.com/Yu-Jusang/snu-course-radar/main/docs/data/');
 if (migrated === app || migrated.includes('fetch(`data/')) throw new Error('Data URL migration failed');
 await writeFile(join(target, 'app.js'), migrated);
 await writeFile(join(target, '_headers'), '/\n  Cache-Control: no-cache\n/*.js\n  Cache-Control: no-cache\n');

@@ -3,7 +3,7 @@
 서울대 공개 강좌의 장바구니 경쟁률과 수강 잔여석을 비교하는 비공식 학생 도구.
 
 - 공유용 사이트: https://binjari-snu.pages.dev/
-- 데이터 및 기존 사이트: https://Yu-Jusang.github.io/snu-course-radar/
+- 데이터: GitHub 저장소의 공개 JSON (GitHub Pages 게시 중단)
 - 출처: https://sugang.snu.ac.kr/ 의 로그인 없는 전체 강좌 검색
 - 정렬: 장바구니 여유 / 낮은·높은 경쟁률 / 초과 인원 / 수강 잔여석 / 정원 / 강좌명
 - 검색, 이수 구분·학과 필터, 장바구니 미초과만 보기, 즐겨찾기, CSV 내보내기
@@ -38,7 +38,7 @@ Windows 수집은 설치된 Chrome을, Linux Actions는 Playwright Chromium을 �
 
 ## 배포
 
-GitHub Pages의 Source는 GitHub Actions. `main` 푸시는 테스트 후 기존 스냅샷을 배포하고, 예약 실행 또는 수동 Run workflow는 수집 → 검증 → 데이터 커밋 → 배포를 수행한다. 기본 GITHUB_TOKEN 이외의 비밀키는 필요 없다. 중단은 Actions에서 workflow를 Disable하면 된다.
+화면은 Cloudflare Pages의 무료 공유 주소에서 제공한다. GitHub Pages는 게시를 중단했다. `main` 푸시는 테스트를 실행하고, 예약 실행 또는 수동 Run workflow는 수집 → 검증 → 데이터 커밋을 수행한다. 기본 GITHUB_TOKEN 이외의 비밀키는 필요 없다. 중단은 Actions에서 workflow를 Disable하면 된다.
 
 ## 공모전 설명에 사용할 수 있는 범위
 
@@ -47,4 +47,4 @@ ChatGPT/Codex를 활용해 학생의 요구를 정리하고 공개 데이터 수
 
 ## Cloudflare 공유용 주소
 
-`binjari-snu.pages.dev`는 동일한 정적 UI를 Cloudflare Pages Direct Upload로 게시한 무료 공유 주소다. 데이터는 기존 GitHub Pages의 공개 JSON을 직접 읽으므로 예약 수집이 성공하면 새 주소에도 반영된다. UI 수정은 `node scripts/package-cloudflare.mjs`로 배포 파일을 만든 후 Cloudflare Pages에서 다시 업로드해야 한다. GitHub 코드 푸시만으로 Cloudflare UI가 자동 배포되지는 않는다.
+`binjari-snu.pages.dev`는 동일한 정적 UI를 Cloudflare Pages Direct Upload로 게시한 무료 공유 주소다. 데이터는 GitHub 저장소 원본의 공개 JSON을 직접 읽으므로 예약 수집이 성공하면 새 주소에도 반영된다. UI 수정은 `node scripts/package-cloudflare.mjs`로 배포 파일을 만든 후 Cloudflare Pages에서 다시 업로드해야 한다. GitHub 코드 푸시만으로 Cloudflare UI가 자동 배포되지는 않는다.
