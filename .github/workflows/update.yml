@@ -4,16 +4,22 @@ on:
     branches: [main]
   workflow_dispatch:
   schedule:
-    - cron: '3,13,23,33,43,53 * * * *'
+    # GitHub's scheduler is sparse for this repository, so cron only restarts the
+    # collection loop if the self-dispatch chain ever stops.
+    - cron: '7,37 * * * *'
 permissions:
   contents: write
+  actions: write
 concurrency:
-  group: course-radar-publish
+  group: ${{ github.event_name == 'push' && 'course-radar-test' || 'course-radar-publish' }}
   cancel-in-progress: false
+env:
+  INTERVAL_SECONDS: 600
+  LOOP_SECONDS: 19800
 jobs:
   build:
     runs-on: ubuntu-latest
-    timeout-minutes: 15
+    timeout-minutes: 345
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-node@v4
@@ -23,21 +29,31 @@ jobs:
       - run: npm test
       - run: npx playwright install --with-deps chromium
         if: github.event_name != 'push'
-      - name: Collect complete anonymous public snapshot
-        id: collect
-        if: github.event_name != 'push'
-        continue-on-error: true
-        run: npm run collect
-      - name: Save snapshot or failed-refresh status
+      - name: Collect every 10 minutes and publish each snapshot
         if: github.event_name != 'push'
         run: |
           git config user.name 'github-actions[bot]'
           git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
-          git add docs/data/courses.json docs/data/status.json
-          if ! git diff --cached --quiet; then
-            git commit -m 'Update public course snapshot and collection status'
-            git push
-          fi
-      - name: Report failed collection
-        if: steps.collect.outcome == 'failure'
-        run: echo '::warning::Collection failed; the last successful snapshot remains available.'
+          loop_end=$(( $(date +%s) + LOOP_SECONDS ))
+          while :; do
+            started=$(date +%s)
+            if ! npm run collect; then
+              echo '::warning::Collection failed; the last successful snapshot remains available.'
+            fi
+            git add docs/data/courses.json docs/data/status.json
+            if ! git diff --cached --quiet; then
+              git commit -q -m 'Update public course snapshot and collection status'
+              for attempt in 1 2 3; do
+                git pull -q --rebase origin main && git push -q && break
+                sleep 5
+              done
+            fi
+            next=$(( started + INTERVAL_SECONDS ))
+            [ "$next" -ge "$loop_end" ] && break
+            sleep $(( next > $(date +%s) ? next - $(date +%s) : 0 ))
+          done
+      - name: Start the next collection loop
+        if: ${{ !cancelled() && github.event_name != 'push' }}
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: gh workflow run update.yml --ref main -R "$GITHUB_REPOSITORY"
