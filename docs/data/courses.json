@@ -2,8 +2,8 @@
   "schemaVersion": 1,
   "term": "2026 - 겨울학기",
   "source": "https://sugang.snu.ac.kr/",
-  "startedAt": "2026-11-02T01:25:46.385Z",
-  "updatedAt": "2026-11-02T01:27:18.825Z",
+  "startedAt": "2026-11-02T01:28:08.155Z",
+  "updatedAt": "2026-11-02T01:29:31.755Z",
   "total": 262,
   "courses": [
     {
@@ -1277,10 +1277,10 @@
       "department": "",
       "level": "학사",
       "category": "교양",
-      "enrolled": 16,
+      "enrolled": 17,
       "capacity": 25,
       "currentStudentCapacity": 25,
-      "totalEnrolled": 16,
+      "totalEnrolled": 17,
       "credits": 3,
       "schedule": "월(12:00~14:50) 수(12:00~14:50) 금(12:00~14:50)",
       "basket": 3,
@@ -3021,14 +3021,14 @@
       "department": "수리과학부",
       "level": "학사",
       "category": "교양",
-      "enrolled": 19,
+      "enrolled": 20,
       "capacity": 20,
       "currentStudentCapacity": 20,
-      "totalEnrolled": 19,
+      "totalEnrolled": 20,
       "credits": 1,
       "schedule": "월(13:00~14:50) 수(13:00~14:50) 금(13:00~14:50)",
       "basket": 39,
-      "flags": "취소여석"
+      "flags": ""
     },
     {
       "id": "F31.104L(002)",
@@ -4077,14 +4077,14 @@
       "department": "교육학과",
       "level": "학사",
       "category": "교직",
-      "enrolled": 39,
+      "enrolled": 40,
       "capacity": 40,
       "currentStudentCapacity": 40,
-      "totalEnrolled": 39,
+      "totalEnrolled": 40,
       "credits": 2,
       "schedule": "화(13:00~15:50) 목(13:00~15:50)",
       "basket": 35,
-      "flags": "취소여석"
+      "flags": ""
     },
     {
       "id": "T1831.000900(001)",
