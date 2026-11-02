@@ -2,8 +2,8 @@
   "schemaVersion": 1,
   "term": "2026 - 겨울학기",
   "source": "https://sugang.snu.ac.kr/",
-  "startedAt": "2026-11-02T08:00:06.077Z",
-  "updatedAt": "2026-11-02T08:01:37.358Z",
+  "startedAt": "2026-11-02T08:10:06.188Z",
+  "updatedAt": "2026-11-02T08:11:35.996Z",
   "total": 262,
   "courses": [
     {
@@ -3790,13 +3790,13 @@
       "level": "학사",
       "category": "전선",
       "enrolled": 30,
-      "capacity": 30,
-      "currentStudentCapacity": 30,
+      "capacity": 50,
+      "currentStudentCapacity": 50,
       "totalEnrolled": 30,
       "credits": 3,
       "schedule": "월(12:00~14:50) 화(12:00~14:50) 수(12:00~14:50)",
       "basket": 7,
-      "flags": "o"
+      "flags": "취소여석 o"
     },
     {
       "id": "M3502.002500(001)",
