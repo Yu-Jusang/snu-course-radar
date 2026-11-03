@@ -2,8 +2,8 @@
   "schemaVersion": 1,
   "term": "2026 - 겨울학기",
   "source": "https://sugang.snu.ac.kr/",
-  "startedAt": "2026-11-03T08:18:24.496Z",
-  "updatedAt": "2026-11-03T08:19:58.992Z",
+  "startedAt": "2026-11-03T08:28:24.830Z",
+  "updatedAt": "2026-11-03T08:29:57.957Z",
   "total": 262,
   "courses": [
     {
@@ -217,7 +217,7 @@
     {
       "id": "3346.414(001)",
       "name": "생명과학연구실습 2",
-      "instructor": "",
+      "instructor": "백성희",
       "department": "생명과학부",
       "level": "학사",
       "category": "전선",
