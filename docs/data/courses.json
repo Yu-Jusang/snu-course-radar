@@ -2,8 +2,8 @@
   "schemaVersion": 1,
   "term": "2026 - 겨울학기",
   "source": "https://sugang.snu.ac.kr/",
-  "startedAt": "2026-11-03T03:16:22.720Z",
-  "updatedAt": "2026-11-03T03:17:52.929Z",
+  "startedAt": "2026-11-03T03:26:22.638Z",
+  "updatedAt": "2026-11-03T03:27:52.679Z",
   "total": 262,
   "courses": [
     {
@@ -1133,10 +1133,10 @@
       "department": "정치외교학부(외교학전공)",
       "level": "학사",
       "category": "교양",
-      "enrolled": 57,
+      "enrolled": 56,
       "capacity": 60,
       "currentStudentCapacity": 60,
-      "totalEnrolled": 57,
+      "totalEnrolled": 56,
       "credits": 3,
       "schedule": "월(12:00~14:50) 수(12:00~14:50) 금(12:00~14:50)",
       "basket": 15,
