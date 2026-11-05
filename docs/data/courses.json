@@ -2,8 +2,8 @@
   "schemaVersion": 1,
   "term": "2026 - 겨울학기",
   "source": "https://sugang.snu.ac.kr/",
-  "startedAt": "2026-11-05T08:17:31.696Z",
-  "updatedAt": "2026-11-05T08:19:06.872Z",
+  "startedAt": "2026-11-05T08:27:31.691Z",
+  "updatedAt": "2026-11-05T08:29:05.802Z",
   "total": 262,
   "courses": [
     {
@@ -3389,14 +3389,14 @@
       "department": "의류학과",
       "level": "학사",
       "category": "일선",
-      "enrolled": 30,
+      "enrolled": 29,
       "capacity": 30,
       "currentStudentCapacity": 30,
-      "totalEnrolled": 30,
+      "totalEnrolled": 29,
       "credits": 3,
       "schedule": "",
       "basket": 19,
-      "flags": "외국어강의"
+      "flags": "취소여석 외국어강의"
     },
     {
       "id": "M2199.002100(004)",
@@ -3405,14 +3405,14 @@
       "department": "",
       "level": "학사",
       "category": "일선",
-      "enrolled": 42,
+      "enrolled": 40,
       "capacity": 42,
       "currentStudentCapacity": 42,
-      "totalEnrolled": 42,
+      "totalEnrolled": 40,
       "credits": 3,
       "schedule": "",
       "basket": 37,
-      "flags": "외국어강의"
+      "flags": "취소여석 외국어강의"
     },
     {
       "id": "M2199.002100(005)",
