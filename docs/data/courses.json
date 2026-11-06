@@ -2,8 +2,8 @@
   "schemaVersion": 1,
   "term": "2026 - 겨울학기",
   "source": "https://sugang.snu.ac.kr/",
-  "startedAt": "2026-11-06T07:15:53.097Z",
-  "updatedAt": "2026-11-06T07:17:21.863Z",
+  "startedAt": "2026-11-06T07:25:52.754Z",
+  "updatedAt": "2026-11-06T07:27:22.229Z",
   "total": 262,
   "courses": [
     {
@@ -3037,10 +3037,10 @@
       "department": "수리과학부",
       "level": "학사",
       "category": "교양",
-      "enrolled": 19,
+      "enrolled": 0,
       "capacity": 20,
       "currentStudentCapacity": 20,
-      "totalEnrolled": 19,
+      "totalEnrolled": 0,
       "credits": 1,
       "schedule": "월(15:00~16:50) 수(15:00~16:50) 금(15:00~16:50)",
       "basket": 25,
