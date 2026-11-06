@@ -2,8 +2,8 @@
   "schemaVersion": 1,
   "term": "2026 - 겨울학기",
   "source": "https://sugang.snu.ac.kr/",
-  "startedAt": "2026-11-06T00:53:50.788Z",
-  "updatedAt": "2026-11-06T00:55:20.773Z",
+  "startedAt": "2026-11-06T01:03:50.332Z",
+  "updatedAt": "2026-11-06T01:05:21.310Z",
   "total": 262,
   "courses": [
     {
@@ -201,7 +201,7 @@
     {
       "id": "3346.329A(001)",
       "name": "생명과학연구실습 4",
-      "instructor": "",
+      "instructor": "정충원",
       "department": "생명과학부",
       "level": "학사",
       "category": "전선",
